@@ -4,7 +4,7 @@ import table from "../assets/table.png";
 import puzzle from "../assets/puzzle.png";
 import intersect from "../assets/intersect.png";
 import star from "../assets/star.png";
-import icon from "../assets/icon.png";
+import icon from "../assets/Icon.png";
 import credit from "../assets/credit.png";
 import Frame from "../assets/Frame.png";
 import {
